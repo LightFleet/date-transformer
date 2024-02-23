@@ -1,0 +1,3 @@
+com/bcf/domain/DateTransformation.class
+com/bcf/application/DateTransformationService.class
+com/bcf/infrastructure/FileDateTransformer.class
